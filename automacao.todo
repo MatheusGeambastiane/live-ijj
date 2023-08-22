@@ -1,9 +1,9 @@
-Funcionalidades:
-
-    ✔ Abrir o Chrome @done(23-08-21 00:00)
-    ✔ Entrar no Google @done(23-08-21 00:00)
-    ✔ Pesquisar o Instituto Joga Junto @done(23-08-21 00:00)
-    ✔ Verificar a pesquisa pelo título @done(23-08-21 00:23)
-    ✔ Entrar no site do instituto @done(23-08-21 00:23)
-    ✔ Verificar o titulo da página do site @done(23-08-21 00:27)
-    ☐ Mandar uma mensagem para o site
+Funcionalidades da automação:
+    ✔ Abrir o firefox @done(23-08-22 13:00)
+    ✔ Entrar no Google @done(23-08-22 13:01)
+    ✔ Pesquisar o Instituto Joga Junto @done(23-08-22 13:48)
+    ✔ Verificar o título da pesquisa @done(23-08-22 13:52)
+    ✔ Clicar no resultado do instituto @done(23-08-22 13:48)
+    ✔ Entrar no site @done(23-08-22 13:48)
+    ✔ Verificar o titulo do site @done(23-08-22 14:25)
+    ✔ Mandar uma mensagem @done(23-08-22 14:49)
